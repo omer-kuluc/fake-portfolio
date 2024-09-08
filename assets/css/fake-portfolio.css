@@ -1,0 +1,149 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.four-dots-button-area {
+  display: flex;
+  justify-content: space-between;
+}
+
+.introduction {
+  padding-top: 184px;
+  padding-left: 155px;
+  width: 874px;
+}
+
+.introduction p {
+  font-family: "Montserrat";
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.3499999940395355px;
+  color: #212121;
+  margin-bottom: 12px;
+}
+
+.introduction h1 {
+  font-family: "Montserrat";
+  font-size: 60px;
+  font-weight: 600;
+  line-height: 70px;
+  letter-spacing: -0.699999988079071px;
+  color: #212121;
+}
+
+.header-social-media-logos {
+  margin-top: 40px;
+  display: flex;
+}
+ul {
+  padding-left: 0;
+}
+
+.header-social-media-logos li {
+  list-style: none;
+  margin-right: 32px;
+}
+
+.latest-projects-header {
+  margin-top: 80px;
+  font-family: "Montserrat";
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 37px;
+  letter-spacing: -0.3499999940395355px;
+}
+
+.container {
+  margin-inline: auto;
+  padding-left: 165px;
+}
+
+.projects-area h2 {
+  margin-bottom: 40px;
+}
+
+.projects-area img {
+  width: 1062px;
+  border-radius: 12px;
+}
+
+.card {
+  border: 1px solid #c4c4c4;
+  width: 1110px;
+  /* background-color: red; */
+  width: Fixed (1, 110px) px;
+  border-radius: 12px;
+  margin-bottom: 80px;
+  padding: 24px;
+}
+
+.card h3 {
+  font-family: "Montserrat";
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.3499999940395355px;
+  padding-top: 24px;
+  margin-bottom: 12px;
+}
+
+.text-area {
+  width: 669px;
+  margin-bottom: 88px;
+}
+
+.text-area p {
+  font-family: "Open Sans";
+  line-height: 28px;
+}
+
+.casestudy img {
+  width: 9.04px;
+  height: 5.54px;
+  opacity: 0px;
+}
+
+.casestudy a {
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.reach-out {
+  width: 569px;
+  margin-bottom: 100px;
+}
+
+.reach-out h5 {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  margin-bottom: 16px;
+}
+
+.reach-out h2 {
+  font-family: "Montserrat";
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  letter-spacing: -0.4000000059604645px;
+  text-align: left;
+}
+
+.reach-out a {
+  color: #1078fd;
+}
+
+footer p {
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
